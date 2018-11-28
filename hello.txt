@@ -13,4 +13,6 @@ let's do new test!
 
 let's learn git merge!
 
-let's try to make a conflict on master!
+
+After merge,let's try to make a conflict on master and dev!
+
